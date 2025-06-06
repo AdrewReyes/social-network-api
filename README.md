@@ -9,6 +9,7 @@ The **Social Network API** is a back-end application built using Node.js, Expres
 ## Table of Contents
 
 - [Installation](#installation)
+- [Video Walkthrough](#video-walkthrough)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
   - [Users](#users)
@@ -40,6 +41,9 @@ The **Social Network API** is a back-end application built using Node.js, Expres
 
 6.Seed the database: 
   npm run seed
+
+## Video Walkthrough
+  https://app.screencastify.com/manage/videos/WzH05y8G6As9uBndT7pn
 
 ## Usage
 
