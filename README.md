@@ -43,7 +43,8 @@ The **Social Network API** is a back-end application built using Node.js, Expres
   npm run seed
 
 ## Video Walkthrough
-  https://app.screencastify.com/manage/videos/WzH05y8G6As9uBndT7pn
+
+  https://app.screencastify.com/watch/WzH05y8G6As9uBndT7pn
 
 ## Usage
 
